@@ -5,3 +5,5 @@ el 05052020
 pero la fecha puede cambiar segun la situación
 
 hablaremos sobre git
+
+cocinero y programador
