@@ -1,5 +1,5 @@
 body{
-    font-family:  Courier;
+    font-family:  Arial, Helvetica, sans-serif;
     text-align: center;
     color: blue;
     font-size: 16px;
@@ -28,4 +28,13 @@ body{
 }
 #container h1{
     font-size: 20px;
+}
+#footer{
+    text-align: center;
+    background: #33a;
+    box-shadow: 0px 2px 20px 0px rgba(0, 0, 0, 0.5);
+    color: white;
+    font-weight: bold;
+    margin: 0;
+    padding: 0;
 }
