@@ -1,0 +1,8 @@
+git shortlog: cuántos commits ha hecho cada miembro del equipo.
+git shortlog -sn: muestra las personas que han hecho ciertos commits, junto con la cantidad.
+git shortlog -sn --all: incluye todos los commits, incluso los borrados.
+git shortlog -sn --all --no-merges: todos los commits sin incluir los merges.
+git config --global alias.nombre “sentencia”. Para añadir un alias. Ej: git config --global alias.stats “shortlog -sn --all --no-merges”.
+git comando --help: para conocer cómo funciona un comando.
+git branch -r: ramas del repositorio remoto.
+git branch -a: ramas locales y remotas.
